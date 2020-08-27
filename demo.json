@@ -1,7 +1,26 @@
 [
-{
-	id:"this is first quesion";
-	second: "data"
-	third: "three";
-}
+	{
+		"What is SQL full form?",
+		"String query language",
+		"Structured query language",
+		"Structured question language",
+		"Safe query language",
+		2
+	},
+	{
+		"Which is SQL type?",
+		"RDMS",
+		"DBMS",
+		"DSMS",
+		"RDBMS",
+		4
+	},
+	{
+		"What is RDBMS full form?",
+		"Relational Database Management System",
+		"Real Database Mangement System",
+		"Relational Database Maintenace System",
+		"Rar Database Management System",
+		2
+	}
 ]
