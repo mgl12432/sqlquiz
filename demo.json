@@ -31,4 +31,61 @@
 		"null",
 		2
 	]
+	,
+	[
+		"5 < 4. True or False?",
+		"False",
+		"True",
+		"null",
+		"null",
+		1
+	],
+	[
+		"5 == 4. True or False?",
+		"False",
+		"True",
+		"null",
+		"null",
+		1
+	],
+	[
+		"5 != 4. True or False?",
+		"False",
+		"True",
+		"null",
+		"null",
+		2
+	],
+	[
+		"5 > 5. True or False?",
+		"False",
+		"True",
+		"null",
+		"null",
+		1
+	],
+	[
+		"5 >= 5. True or False?",
+		"False",
+		"True",
+		"null",
+		"null",
+		2
+	],
+	[
+		"5 is which type of data type?",
+		"INT/NUMBER",
+		"FLOAT",
+		"VARCHAR",
+		"DOUBLE",
+		1
+	],
+	[
+		"5.10 is which type of data type?",
+		"INT",
+		"NUMBER",
+		"VARCHAR",
+		"FLOAT/DOUBLE",
+		4
+	]
 ]
