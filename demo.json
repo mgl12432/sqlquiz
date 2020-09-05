@@ -8,14 +8,6 @@
 		2
 	],
 	[
-		"Which is SQL type?",
-		"RDMS",
-		"DBMS",
-		"DSMS",
-		"RDBMS",
-		4
-	],
-	[
 		"Which keyword is used to create a table?",
 		"MAKE",
 		"SELECT",
