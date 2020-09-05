@@ -16,11 +16,27 @@
 		4
 	],
 	[
-		"What is RDBMS full form?",
-		"Relational Database Management System",
-		"Real Database Mangement System",
-		"Relational Database Maintenace System",
-		"Rar Database Management System",
-		1
+		"Which keyword is used to create a table?",
+		"MAKE",
+		"SELECT",
+		"CREATE",
+		"INSERT",
+		3
+	],
+	[
+		"Which keyword is used to insert a table?",
+		"SELECT",
+		"INSERT",
+		"CREATE",
+		"UPDATE",
+		2
+	],
+	[
+		"5 > 4. True or False?",
+		"False",
+		"True",
+		"null",
+		"null",
+		2
 	]
 ]
